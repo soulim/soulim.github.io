@@ -1,0 +1,5 @@
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
+exclude: [Gemfile, Gemfile.lock, .ruby-version, .ruby-gemset]
+encoding: UTF-8
