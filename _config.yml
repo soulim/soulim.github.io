@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: Alexander Sulim personal page
 markdown: redcarpet
 pygments: true
 exclude: [Gemfile, Gemfile.lock, .ruby-version, .ruby-gemset]
